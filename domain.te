@@ -291,6 +291,7 @@ neverallow {
     domain
     -appdomain
     -dumpstate
+    -mediaserver
     -shell
     -su
     -system_server
